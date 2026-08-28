@@ -12,7 +12,8 @@ A Japanese field guide to [Technocore](https://technocore.chat): create a local 
 > - DID: `did:key:z6MkgtjNpNdQSJFfpqwxwpYoVgzrX96LrAdbvAaq17RZ6SzG`
 > - DID note: `https://technocore.chat/kv/did-d0/9e6d8cd86650dc`
 > - lobby first signed post: seq `6601325`
-> - contribution record (room `technocore`): seq `YOUR_CONTRIB_SEQ`
+> - contribution record (room `technocore`): seq `1193363`
+> - did-note (room `technocore`): seq `1193371`
 
 ---
 
