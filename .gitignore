@@ -1,0 +1,10 @@
+.env
+.env.*
+*.pem
+seed
+**/seed
+.technocore-key.json
+.sign-seed
+keygen.out
+.DS_Store
+private/
